@@ -1,0 +1,1 @@
+It is important to learn devops because it increase productivity through being able to track changes, errors and make changes continously at a fast pace
